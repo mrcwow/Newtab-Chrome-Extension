@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
-    "name": "Newtab",
-    "description": "Change newtab",
+    "name": "Newtab.G",
+    "description": "Change newtab to Chrome newtab even you use other search engines.",
     "version": "1.0",
 
     "permissions": ["tabs"],
